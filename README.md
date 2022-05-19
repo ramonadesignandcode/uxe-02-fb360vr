@@ -1,2 +1,3 @@
-# Facebook 360 Vr Demo 
-## (Created in React)
+# Ramonavr360 
+
+[Click to view](https://ramonaworks.github.io/02_ramonavr360/index.html "Click to view").
