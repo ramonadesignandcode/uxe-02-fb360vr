@@ -12,7 +12,8 @@ Maps platform-native VR behaviors—spatial context, orientation, in-scene UI—
 
 ## Concept
 
-**Translation** of VR interaction and presentation into a browser-only environment. Priorities:
+**Translation** of VR interaction and presentation into a browser-only environment. 
+Priorities:
 
 - **Spatial navigation and orientation** — sense of place and view direction within the 360° scene.
 - **Interaction feedback** — focus/input semantics (focus-in, focus-out) aligned with VR-style interaction on conventional devices.
