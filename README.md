@@ -2,6 +2,10 @@
 
 Web prototype for 360° immersive viewing in the browser, translating social VR interaction patterns into a lightweight, deployable experience without native platform dependencies.
 
+## Live Demo
+
+[View the immersive prototype](https://ramona-dsouza.github.io/Facebook-360-VR/)
+
 ---
 
 ## Overview
