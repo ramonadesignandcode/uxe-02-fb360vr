@@ -10,7 +10,7 @@ Web prototype for 360° immersive viewing in the browser, translating social VR 
 
 ## Overview
 
-Maps platform-native VR behaviors—spatial context, orientation, in-scene UI—onto open web architecture. Single-page app: equirectangular 360° background plus a React-driven UI layer, packaged and served with standard web tooling.
+Maps platform-native VR behaviors, spatial context, orientation, in-scene UI, onto open web architecture. Single-page app: equirectangular 360° background plus a React-driven UI layer, packaged and served with standard web tooling.
 
 ---
 
@@ -51,10 +51,10 @@ Repo contains pre-built `index.bundle.js`, `client.bundle.js`, and `index.html` 
 3. Serve over HTTP from the project root (e.g. `npx serve .`). Avoid `file://`.
 4. Open the root URL in a modern browser.
 
-No `npm install`—pre-built bundles only. Use any static server.
+No `npm install`, pre-built bundles only. Use any static server.
 
 ---
 
 ## Purpose
 
-Structured experiment in bringing VR-style presentation and interaction to the web: same mental model (immersive space, in-scene UI, orientation and focus), different delivery (static assets, HTTP, no app store or VR runtime). Showcases systems thinking—UX translation across platforms, constraint-driven architecture, and clear implementation for maintainability and extension. Portfolio evidence for immersive and spatial web design-to-implementation.
+Structured experiment in bringing VR-style presentation and interaction to the web: same mental model (immersive space, in-scene UI, orientation and focus), different delivery (static assets, HTTP, no app store or VR runtime). Showcases systems thinking, UX translation across platforms, constraint-driven architecture, and clear implementation for maintainability and extension. Portfolio evidence for immersive and spatial web design-to-implementation.
